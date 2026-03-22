@@ -128,9 +128,9 @@ This project demonstrates skills transferable to multiple data roles:
 
 ## 📬 Contact
 
-**Your Name** — your.email@example.com  
-**GitHub**: github.com/YOUR_USERNAME  
-**LinkedIn**: linkedin.com/in/YOUR_PROFILE
+**Your Name** — rifqisyahr@gmail.com  
+**GitHub**: github.com/docksgit  
+**LinkedIn**: linkedin.com/in/rifqisyahr
 
 ---
 
