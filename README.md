@@ -71,7 +71,7 @@ The engine uses **exact multivariate hypergeometric enumeration** to calculate p
 |--------|-------|---------|
 | **Turn 1 Success Rate** | **64.49%** | ~2 out of 3 games execute combo |
 | **P(EB in Opening)** | 71.83% | Largest failure mode (28% miss rate) |
-| **P(Target | EB)** | 77.18% | When EB is present, combo usually ready |
+| **P(Target \| EB)** | 77.18% | When EB is present, combo usually ready |
 | **Dig Success Rate** | 73.63% | DS + turn draw sequential advantage |
 
 ### Sensitivity Analysis
